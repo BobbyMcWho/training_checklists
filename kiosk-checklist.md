@@ -32,7 +32,7 @@ The recommended OSX setup uses Homebrew.
 4. Install required packages for `asdf`, Nerves, and Erlang
 
     ```sh
-    brew install coreutils automake autoconf openssl libyaml readline libtool fwup squashfs wxmac xz picocom
+    brew install coreutils automake autoconf openssl libyaml readline libtool fwup squashfs wxmac xz picocom pkg-config
     ```
 
 5. Install Qt
